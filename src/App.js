@@ -33,9 +33,9 @@ function App() {
       </div>
       <nav>
         <ul>
-          <li><FaHome /> Home</li>
-          <li><FaUserAlt /> About</li>
-          <li><FaEnvelope /> Contact</li>
+          <li><FaHome className="icon" /> Home</li>
+          <li><FaUserAlt className="icon" /> About</li>
+          <li><FaEnvelope className="icon" /> Contact</li>
           <li></li>
         </ul>
       </nav>
